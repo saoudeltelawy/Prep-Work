@@ -1,3 +1,3 @@
-##Le Wagon
+#Le Wagon Web Bootcamp
 
-# Web Development Bootcamp - Prep Work.
+# This is the Web Development Prep-Work by Le Wagon covering [HTML, CSS, JS, Ruby, Git & Github, Figma]
